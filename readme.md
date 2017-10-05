@@ -23,5 +23,21 @@ hello
 
 4. Make desired changes to files
 
-5. 
+![HTML code](readme-image1.PNG)
+
+5. Add and commit your changes
+
+`git add *`
+`git commit -m "my commit message here"`
+
+6. Push to Azure to deploy your changes
+
+`git push azure`
+`Password for 'https://risksurvey_deployment@risksurveyapp.scm.azurewebsites.net:443': ********************`
+
+```bash
+remote: Deployment successful.
+To https://risksurveyapp.scm.azurewebsites.net:443/RiskSurveyApp.git
+   544ce9f..6648ea4  master -> master
+```
 
