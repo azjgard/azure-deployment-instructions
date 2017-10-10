@@ -3,7 +3,7 @@
 1. Clone the repository from Azure
 
 ```
-git clone https://risksurvey_deployment@risksurveyapp.scm.azurewebsites.net:443/RiskSurveyApp.git`
+git clone https://risksurvey_deployment@risksurveyapp.scm.azurewebsites.net:443/RiskSurveyApp.git
 ```
 
 2. Input the password for the deployment account
